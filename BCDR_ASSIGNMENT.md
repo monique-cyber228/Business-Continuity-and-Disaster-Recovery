@@ -774,8 +774,7 @@ Recovery targets are commitments to be justified and tested. A site label does n
 
 ## Core reading
 
-ICDFA. Business Continuity and Disaster Recovery. GRC205, Week 21. Teaching deck, slides 1 to 15.
-
+ICDFA. Business Continuity and Disaster Recovery. GRC205, Week 21. 
 NIST (2010, updated November 2010). SP 800-34 Revision 1. Contingency Planning Guide for Federal Information Systems. [Official guide and BIA templates](https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final)
 
 ISO. ISO 22301:2019. Business continuity management systems. [Official overview and preview](https://www.iso.org/standard/75106.html)
